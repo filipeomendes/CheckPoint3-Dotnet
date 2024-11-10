@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "3NhBdTOUpuTNCJ7DPkXRh9jdOf+ffYcF6Zti+bCLHmI=",
+  "Source": "checkpoint3",
+  "BasePath": "_content/checkpoint3",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "checkpoint3\\wwwroot",
+      "Source": "checkpoint3",
+      "ContentRoot": "D:\\FIAP\\2 ANO\\2 Semestre\\ADVANCED BUSINESS DEVELOPMENT WITH .NET\\CheckPoint3\\checkpoint3\\checkpoint3\\wwwroot\\",
+      "BasePath": "_content/checkpoint3",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}

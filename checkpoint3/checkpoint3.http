@@ -1,0 +1,6 @@
+@checkpoint3_HostAddress = http://localhost:5007
+
+GET {{checkpoint3_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

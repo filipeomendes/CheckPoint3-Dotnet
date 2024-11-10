@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\checkpoint3.props" />
+</Project>
